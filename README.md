@@ -1,4 +1,4 @@
-TrinityRepo
+This repo // Fusioncms and TrinityCore..
 ===========
 
-TrinityCore
+TrinityCore/ Fusioncms
